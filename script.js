@@ -4,3 +4,6 @@ function scrollToTop() {
         behavior: 'smooth'
     });
 }
+function allert() {
+    alert('Added to Cart');
+}
